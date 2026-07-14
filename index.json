@@ -1,0 +1,153 @@
+{
+  "library": "PickedLapharp",
+  "format": "opus-48k",
+  "sourceRepo": "https://github.com/zulfikarbarbora-outl/PickedLapharp",
+  "previewRepo": "https://github.com/zulfikarbarbora-outl/picked-lapharp-opus-48",
+  "branch": "master",
+  "fileCount": 10,
+  "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/picked-lapharp-opus-48/master/",
+  "files": [
+    {
+      "file": "lapharppick_A4.opus",
+      "name": "lapharppick_A4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/picked-lapharp-opus-48/master/lapharppick_A4.opus",
+      "size": 29068,
+      "note": "A4",
+      "midiNote": 69,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "lapharppick_B4.opus",
+      "name": "lapharppick_B4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/picked-lapharp-opus-48/master/lapharppick_B4.opus",
+      "size": 36349,
+      "note": "B4",
+      "midiNote": 71,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "lapharppick_C4.opus",
+      "name": "lapharppick_C4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/picked-lapharp-opus-48/master/lapharppick_C4.opus",
+      "size": 26082,
+      "note": "C4",
+      "midiNote": 60,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "lapharppick_C5.opus",
+      "name": "lapharppick_C5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/picked-lapharp-opus-48/master/lapharppick_C5.opus",
+      "size": 30754,
+      "note": "C5",
+      "midiNote": 72,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "lapharppick_D4.opus",
+      "name": "lapharppick_D4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/picked-lapharp-opus-48/master/lapharppick_D4.opus",
+      "size": 29916,
+      "note": "D4",
+      "midiNote": 62,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "lapharppick_D5.opus",
+      "name": "lapharppick_D5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/picked-lapharp-opus-48/master/lapharppick_D5.opus",
+      "size": 28582,
+      "note": "D5",
+      "midiNote": 74,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "lapharppick_E4.opus",
+      "name": "lapharppick_E4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/picked-lapharp-opus-48/master/lapharppick_E4.opus",
+      "size": 30391,
+      "note": "E4",
+      "midiNote": 64,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "lapharppick_E5.opus",
+      "name": "lapharppick_E5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/picked-lapharp-opus-48/master/lapharppick_E5.opus",
+      "size": 18773,
+      "note": "E5",
+      "midiNote": 76,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "lapharppick_F4.opus",
+      "name": "lapharppick_F4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/picked-lapharp-opus-48/master/lapharppick_F4.opus",
+      "size": 25812,
+      "note": "F4",
+      "midiNote": 65,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "lapharppick_G4.opus",
+      "name": "lapharppick_G4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/picked-lapharp-opus-48/master/lapharppick_G4.opus",
+      "size": 26238,
+      "note": "G4",
+      "midiNote": 67,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    }
+  ],
+  "byNote": {
+    "60": [
+      "lapharppick_C4.opus"
+    ],
+    "62": [
+      "lapharppick_D4.opus"
+    ],
+    "64": [
+      "lapharppick_E4.opus"
+    ],
+    "65": [
+      "lapharppick_F4.opus"
+    ],
+    "67": [
+      "lapharppick_G4.opus"
+    ],
+    "69": [
+      "lapharppick_A4.opus"
+    ],
+    "71": [
+      "lapharppick_B4.opus"
+    ],
+    "72": [
+      "lapharppick_C5.opus"
+    ],
+    "74": [
+      "lapharppick_D5.opus"
+    ],
+    "76": [
+      "lapharppick_E5.opus"
+    ]
+  }
+}
